@@ -1,0 +1,10 @@
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Temporary test scripts
+test_*.ps1
+diag_*.ps1
+check_*.ps1
+create_repo.ps1
